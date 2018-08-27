@@ -1,0 +1,23 @@
+table tr td
+{
+    border: 1px solid black;
+}
+.left
+{
+    border-left-width: 0px;
+}
+.top
+{
+    border-top-width: 0px;
+}
+.right
+{
+    border-right-width:0px;
+}
+.bottom
+{
+    border-bottom-width:0px;
+}
+table{
+    width: 200px; height: 200px;border-collapse:collapse
+}
