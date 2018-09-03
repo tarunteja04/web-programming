@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width">
+
+    <title>scissors-paper-rock</title>
+
+
+</head>
+<body>
+
+<h1>scissors-paper-rock</h1>
+
+<style>
+    body{
+        background-color: #2aabd2;
+    }
+</style>
+    <script>
+        var userChoice = prompt("Do you choose rock, paper or scissors?");
+        if (! userChoice) {
+            document.write("<p>worng choice is selected .</p>");
+        } else {
+            document.write("<p>Player 1:" + " " + userChoice + "</p>");
+        }
+        var computerChoice = Math.random();
+        if (computerChoice < 0.34) {
+            computerChoice = "rock";
+        } else if(computerChoice <= 0.67) {
+            computerChoice = "paper";
+        } else {
+            computerChoice = "scissors";
+        }
+        // Display computer choice
+        document.write("<p>Computer:" + " " + computerChoice + "</p>");
+        var compare = function(choice1,choice2) {
+            if (choice1 === choice2) {
+                return "draw game!";
+            }
+            if (choice1 === "rock") {
+                if (choice2 === "scissors") {
+                    return "Hurrah!you won";
+                } else {
+                    return "oops! you lost";
+                }
+            }
+            if (choice1 === "paper") {
+                if (choice2 === "rock") {
+                    // paper wins
+                    return "Hurrah you won!";
+                } else {
+                    // scissors wins
+                    return "oops! you lost";
+                }
+            }
+            if (choice1 === "scissors") {
+                if (choice2 === "rock") {
+                    // rock wins
+                    return "oops! you lost.";
+                } else {
+                    // scissors wins
+                    return "Hurrah you won!";
+                }
+            }
+        };
+        var results = compare(userChoice,computerChoice);
+        document.write("<br><br>" + results);
+    </script>
+
+</div>
+
+</body>
+</html>
