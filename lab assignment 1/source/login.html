@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<header>
+    <title>Andhra Styles</title>
+     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" >
+     <script src="bootstrap/js/bootstrap.min.js"> </script>
+</header>
+<style>
+    .Userlogin{
+    margin: auto;
+    width: 50%;
+    border: 3px solid #dfdfdf;
+    padding: 10px;
+    margin-top: 10%;
+    }
+    .loginPartition
+    {
+        margin-left: 17%;
+    }
+    .NewSignup{
+        border-top: 2px solid #b4b3b5;
+        padding: 15px;
+        margin-top: 15px;
+    }
+
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+</style>
+<div class="container py-3">
+    <div class="row">
+        <div class="col-md-12 ">
+            <div class="row Userlogin">
+                <div class="col-md-8 mx-auto loginPartition">
+
+                    <!-- form card login -->
+                    <div class="card rounded-0">
+                        <div class="card-header">
+                            <h3 class="mb-0">Login</h3>
+                        </div>
+                        <div class="card-body">
+                            <form class="form" role="form" autocomplete="off" id="formLogin" novalidate="" method="POST" action="dashboard.html">
+                                <div class="form-group">
+                                    <label for="Username">Username</label>
+                                    <div class="input-group">
+                                        <div class="input-group-addon "><span class="glyphicon glyphicon-user"></span></div>
+                                        <input type="text" class="form-control form-control-lg rounded-0" name="Username" id="Username" required="" placeholder="User Name">
+                                    </div> 
+                                    <div class="invalid-feedback">Oops, you missed this one.</div> 
+                                </div>
+                                <div class="form-group">
+                                    <label>Password</label>
+                                    <div class="input-group">
+                                        <div class="input-group-addon"><span class="glyphicon glyphicon-lock"></span></span></div>
+                                         <input type="password" class="form-control form-control-lg rounded-0" id="Password" required="" autocomplete="new-password" placeholder="Password">
+                                    </div>
+                                    <div class="invalid-feedback">Enter your password too!</div>
+                                </div>
+                                <div >
+                                    <label class="custom-control custom-checkbox">
+                                      <input type="checkbox" class="custom-control-input">
+                                      <span class="custom-control-indicator"></span>
+                                      <span class="custom-control-description small text-dark">Remember me on this computer</span>
+                                    </label>
+                                </div>
+                                <button type="submit" class="btn btn-success btn-lg float-right" id="btnLogin">Login</button>
+                            </form>
+                                <div class="NewSignup">
+                                        New Customer Please sign in here 
+                                        <a href="Newsignin.html">Register</a>
+                                </div>
+                        </div>
+                        <!--/card-block-->
+                    </div>
+                    <!-- /form card login -->
+
+                </div>
+            </div>
+            <!--/row-->
+
+        </div>
+        <!--/col-->
+    </div>
+    <!--/row-->
+</div>
+<!--/container-->
+
+</html>
