@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="ttApp" ng-controller="ttCtrl">
+<head>
+    <meta charset="UTF-8">
+    <title>Yandex Translate</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular-sanitize.js"></script>
+    <script src="app.js"></script>
+    <style>
+        body{
+            background-image:url("800px_COLOURBOX18755690.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+
+        <h1 align="center" style="color: indianred;">LANGUAGE CHANGE APP</h1>
+        <br/>
+        <!-- Source Language Input Text-->
+        <div align="center" style="margin-right: 140px">
+            <label for="inputdefault">INPUT TEXT : </label>
+            <input ng-model="sourceText" id="inputdefault" type="text" placeholder="Enter text to Translate">
+        </div>
+        <br/>
+        <!-- Source, Destination Language -->
+        <div class="col-xs-4" style="margin-left: 200px">
+            <label for="ex3">INPUT LANGUAGE :</label>
+            <input ng-model="sourceLan" class="form-control" id="ex3" type="text" placeholder="Enter the Source Language">
+        </div>
+        <div class="col-xs-4">
+            <label for="ex4">OUTPUT LANGUAGE :</label>
+            <input ng-model="destLan" class="form-control" id="ex4" type="text" placeholder="Enter the Destination Language">
+            <span class="help-block"></span>
+        </div>
+        <br/>
+        <button class="btn btn-primary" id="translateText" ng-click="getTranslateText()">TRANSLATE TEXT</button>
+
+    </div>
+</div>
+<br/>
+<!-- Output Text/ Error -->
+<p align="center" ng-bind-html="textOut" style="color: green"></p>
+<br/>
+<!-- Trigger the modal on button click -->
+<input type="button" data-toggle="modal" data-target="#myModal" class="btn btn-primary" value="GET CODES FOR LANGUAGES" style="display: block; margin: 0 auto;">
+<!-- Modal -->
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Supported Languages</h4>
+            </div>
+            <div class="modal-body">
+                <div ng-repeat="(key, data) in langList">
+                    <p>{{key}} : {{data}}</p>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
