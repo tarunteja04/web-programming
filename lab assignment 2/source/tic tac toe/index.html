@@ -1,0 +1,66 @@
+<!doctype html>
+<html ng-app="tictactoe">
+	<head>
+		<title>Tut</title>
+		<style type="text/css">
+			table {
+				margin: 10px;
+				border: 5px solid burlywood;
+				margin-left:auto; 
+				margin-right:auto;
+				border-radius: 20px;
+			}
+			tr {
+				margin: 2px;
+			}
+			td {
+				border: 3px solid burlywood;
+				border-radius: 10px;
+				font-weight: :bold ;
+				width: 80px;
+				height: 80px;
+				text-align: center;
+				font-size: 40px;
+			}
+			.winning {
+				background-color: rgb(157, 207, 75);
+				color: white;
+			}
+			#newgamebtn {
+				position: relative;
+				text-align: center;
+				border : 2px solid grey;
+				border-radius: 25px;
+				color: white;
+				height:50px;
+				width:200px;
+				background-color: mediumaquamarine;
+				font-size: 20px;
+
+			}
+			#maindiv {
+				text-align: center;
+			}
+			h2 {
+				color:brown;
+			}
+			h1 {
+				color:olive;
+			}
+		</style>
+	</head>
+	<body ng-controller="BoardCtrl" id = "maindiv">
+		<h2>TIC TAC TOE GAME </h2>
+		<h1 ng-show="board.won" ng-cloak>{{board.winning_marker}} won the game!</h1>
+		<table>
+			<tr ng-repeat="row in board.grid">
+				<td ng-repeat="cell in row" ng-click="board.playCell(cell)" ng-class="{'winning': cell.winning}">
+					<span ng-bind="cell.marker" ></span>
+				</td>	
+			</tr>
+		</table>
+		<button ng-click="board.reset()" id="newgamebtn">New Game</button>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.js"></script>
+		<script type="text/javascript" src="app.js"></script>
+	</body>
+</html>

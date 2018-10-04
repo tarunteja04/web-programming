@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" data-ng-app="youtubeSearchAPP">
+<head>
+    <title>YOUTUBE API</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link type="text/css" rel="stylesheet" href="style.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.7/angular.min.js"></script>
+    <script src="youtube.js"></script>
+</head>
+<body>
+<div class="container">
+    <div class="row top-buffer">
+        <div class="col-lg-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <img src="icon.png" class="home_img center-block" alt="Home" id="home" />
+                </div>
+                <div class="text-center buffer">
+                    <div class="input-group col-lg-6 col-lg-offset-3">
+                        <h1>Search keyword</h1>
+                        <div class="form-group">
+                            <input id="searchText" type="text" class="form-control" placeholder="Search for..." />
+                        </div>
+                    </div>
+                    <br />
+                    <div data-ng-controller="youtubeSearchCtrl">
+                        <button class="btn btn-primary btn-lg" type="button" data-ng-click="getVideoId()" data-ng-model="videoList">Search</button>
+                        <table class="table" id="youtubeVideo">
+                            <tbody>
+                            <tr class="text-left" data-ng-repeat="video in videoList">
+                                <td>
+                                    <iframe width="300" height="250" data-ng-src="{{ getIframeSrc(videoList[$index].id.videoId) }}"></iframe>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
