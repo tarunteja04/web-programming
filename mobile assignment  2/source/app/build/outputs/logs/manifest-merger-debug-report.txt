@@ -1,0 +1,173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cb1ad52bc8b0253b1c58eb9b1467a168\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\a032fe4df4d6acf91cd7724531fc6fa8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a8683cdeccead8d67a4efdbb3e0f42ea\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a16ca568883f7fcef283e473b4008492\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\648b4872bad1b589e9a80390140ffe17\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8c1252eb1f59d459e833e67fe61a72d8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\951805bc04879597df7666a7ffc26829\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a94967180bdf3e65b7b71776f87fcbbb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5daf6e83ce6834f5dcce8274e0c8cbe8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\bd2607d353fa7e270ddf202f5de28651\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\428f66054212bc676e9b9ce5948d353e\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ef3a27efa90528b52af64f6b35408c9c\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:6:22-66
+application
+ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:8:5-27:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cb1ad52bc8b0253b1c58eb9b1467a168\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cb1ad52bc8b0253b1c58eb9b1467a168\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\a032fe4df4d6acf91cd7724531fc6fa8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\a032fe4df4d6acf91cd7724531fc6fa8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a8683cdeccead8d67a4efdbb3e0f42ea\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a8683cdeccead8d67a4efdbb3e0f42ea\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a16ca568883f7fcef283e473b4008492\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a16ca568883f7fcef283e473b4008492\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\648b4872bad1b589e9a80390140ffe17\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\648b4872bad1b589e9a80390140ffe17\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8c1252eb1f59d459e833e67fe61a72d8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8c1252eb1f59d459e833e67fe61a72d8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\951805bc04879597df7666a7ffc26829\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\951805bc04879597df7666a7ffc26829\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a94967180bdf3e65b7b71776f87fcbbb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a94967180bdf3e65b7b71776f87fcbbb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5daf6e83ce6834f5dcce8274e0c8cbe8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5daf6e83ce6834f5dcce8274e0c8cbe8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\bd2607d353fa7e270ddf202f5de28651\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\bd2607d353fa7e270ddf202f5de28651\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\428f66054212bc676e9b9ce5948d353e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\428f66054212bc676e9b9ce5948d353e\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ef3a27efa90528b52af64f6b35408c9c\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ef3a27efa90528b52af64f6b35408c9c\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:14:9-40
+activity#web.com.pizzaorder.HomeActivity
+ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:15:9-20:20
+	android:name
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:18:27-74
+activity#web.com.pizzaorder.CoffeOrder
+ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:22:9-57
+	android:name
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:22:19-45
+activity#web.com.pizzaorder.PizzaOrder
+ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:24:9-57
+	android:name
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:24:19-45
+activity#web.com.pizzaorder.OrderSummary
+ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:26:9-59
+	android:name
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml:26:19-47
+uses-sdk
+INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cb1ad52bc8b0253b1c58eb9b1467a168\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cb1ad52bc8b0253b1c58eb9b1467a168\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\a032fe4df4d6acf91cd7724531fc6fa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\a032fe4df4d6acf91cd7724531fc6fa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a8683cdeccead8d67a4efdbb3e0f42ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a8683cdeccead8d67a4efdbb3e0f42ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a16ca568883f7fcef283e473b4008492\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a16ca568883f7fcef283e473b4008492\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\648b4872bad1b589e9a80390140ffe17\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\648b4872bad1b589e9a80390140ffe17\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8c1252eb1f59d459e833e67fe61a72d8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8c1252eb1f59d459e833e67fe61a72d8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\951805bc04879597df7666a7ffc26829\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\951805bc04879597df7666a7ffc26829\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a94967180bdf3e65b7b71776f87fcbbb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a94967180bdf3e65b7b71776f87fcbbb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5daf6e83ce6834f5dcce8274e0c8cbe8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5daf6e83ce6834f5dcce8274e0c8cbe8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\bd2607d353fa7e270ddf202f5de28651\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\bd2607d353fa7e270ddf202f5de28651\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\428f66054212bc676e9b9ce5948d353e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\428f66054212bc676e9b9ce5948d353e\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ef3a27efa90528b52af64f6b35408c9c\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ef3a27efa90528b52af64f6b35408c9c\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cb1ad52bc8b0253b1c58eb9b1467a168\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tarun\Downloads\mobile 2\ICP9\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cb1ad52bc8b0253b1c58eb9b1467a168\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\a032fe4df4d6acf91cd7724531fc6fa8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\a032fe4df4d6acf91cd7724531fc6fa8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a8683cdeccead8d67a4efdbb3e0f42ea\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a8683cdeccead8d67a4efdbb3e0f42ea\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a16ca568883f7fcef283e473b4008492\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a16ca568883f7fcef283e473b4008492\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\648b4872bad1b589e9a80390140ffe17\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\648b4872bad1b589e9a80390140ffe17\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8c1252eb1f59d459e833e67fe61a72d8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8c1252eb1f59d459e833e67fe61a72d8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\951805bc04879597df7666a7ffc26829\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\951805bc04879597df7666a7ffc26829\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a94967180bdf3e65b7b71776f87fcbbb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a94967180bdf3e65b7b71776f87fcbbb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5daf6e83ce6834f5dcce8274e0c8cbe8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5daf6e83ce6834f5dcce8274e0c8cbe8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\bd2607d353fa7e270ddf202f5de28651\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\bd2607d353fa7e270ddf202f5de28651\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cb1ad52bc8b0253b1c58eb9b1467a168\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cb1ad52bc8b0253b1c58eb9b1467a168\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ef3a27efa90528b52af64f6b35408c9c\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ef3a27efa90528b52af64f6b35408c9c\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tarun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ef3a27efa90528b52af64f6b35408c9c\AndroidManifest.xml:26:13-58
