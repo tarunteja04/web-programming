@@ -2,13 +2,13 @@
 <instant-run
     abi="x86"
     api-level="28"
-    build-mode="COLD"
+    build-mode="FULL"
     density="420dpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1540698356375"
+    timestamp="1540711915194"
     token="-4605838716607932019"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -23,50 +23,149 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\outputs\apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
+
     <build
         build-mode="FULL"
-        timestamp="1540693094248"
+        timestamp="1540711915194"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
+            location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
             location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\outputs\apk\debug\app-debug.apk"
+            location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tarun\Downloads\mobile 2\ICP9\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tarun\OneDrive\Documents\GitHub\web-programming\mobile assignment  2\source\app\build\outputs\apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1540698356375"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
