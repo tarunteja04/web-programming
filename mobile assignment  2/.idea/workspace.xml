@@ -15,7 +15,86 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="activity_coffe.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/app/src/main/res/layout/activity_coffe.xml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_home.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/app/src/main/res/layout/activity_home.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_ordersummary.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/app/src/main/res/layout/activity_ordersummary.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_pizza.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/app/src/main/res/layout/activity_pizza.xml">
+          <provider editor-type-id="text-editor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/app/src/main/java/web/com/pizzaorder/HomeActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-125" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderSummary.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/app/src/main/java/web/com/pizzaorder/OrderSummary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PizzaOrder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/app/src/main/java/web/com/pizzaorder/PizzaOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1208">
+              <caret line="102" column="33" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoffeOrder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/app/src/main/java/web/com/pizzaorder/CoffeOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1615">
+              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="65" />
@@ -143,14 +222,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Desktop/mobile assignment  2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -226,13 +305,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32909605" />
-      <window_info anchor="right" id="Preview" order="3" weight="0.25033557" />
+      <window_info anchor="right" id="Preview" order="3" weight="0.26778522" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -339,44 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/app/src/main/res/layout/activity_pizza.xml">
-      <provider editor-type-id="text-editor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/app/src/main/java/web/com/pizzaorder/CoffeOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/app/src/main/java/web/com/pizzaorder/HomeActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/app/src/main/java/web/com/pizzaorder/OrderSummary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/app/src/main/java/web/com/pizzaorder/PizzaOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/app/src/main/res/layout/activity_coffe.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/app/src/main/res/layout/activity_home.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -394,6 +436,48 @@
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/app/src/main/java/web/com/pizzaorder/HomeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/app/src/main/res/layout/activity_coffe.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/app/src/main/res/layout/activity_pizza.xml">
+      <provider editor-type-id="text-editor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/app/src/main/java/web/com/pizzaorder/CoffeOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1615">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/app/src/main/java/web/com/pizzaorder/PizzaOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1208">
+          <caret line="102" column="33" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/app/src/main/java/web/com/pizzaorder/OrderSummary.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state />
       </provider>
     </entry>
