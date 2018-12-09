@@ -59,6 +59,10 @@ public class MedicalAssistantActivity extends AppCompatActivity {
             }
         });
     }
+    public void orderCoffe(View view) {
+        Intent intent = new Intent(MedicalAssistantActivity.this, datebutton.this);
+        startActivity(intent);
+    }
 
     private void startVoiceInput() {
         // Starting Voice Input on click of Mic button
