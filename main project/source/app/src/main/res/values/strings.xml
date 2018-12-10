@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Store</string>
+    <string name="facebook_app_id">227989924746095</string>
+    <string name="fb_login_protocol_scheme">fb227989924746095</string>
+    <string name="google_maps_key">AIzaSyBBw1_0fntdmWTPJGzWB9r47fJyCkXukVg</string>
+    <string name="server_client_id">483096877320-n23mvqr8ineo9or4rr39s92q9h8c8tpg.apps.googleusercontent.com</string>
+</resources>

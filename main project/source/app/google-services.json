@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "483096877320",
+    "firebase_url": "https://anilproject-8f950.firebaseio.com",
+    "project_id": "anilproject-8f950",
+    "storage_bucket": "anilproject-8f950.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483096877320:android:5368a99137b3fcfd",
+        "android_client_info": {
+          "package_name": "com.webproject.anil.anilproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483096877320-bfmlvp7to2jsvc5omumo36fmvnj42b88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoR1n75ICeu7sPUs_HgWlvFutTZ_uH54A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
